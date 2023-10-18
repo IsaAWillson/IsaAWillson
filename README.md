@@ -18,9 +18,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117)&nbsp;
 
 ### Studying at this moment:
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=SQL&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Ansible](https://img.shields.io/badge/-Ansible-0D1117?style=for-the-badge&logo=Ansible&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Azure](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&labelColor=0D1117)&nbsp;
+![GO](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=SQL&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Maven](https://img.shields.io/badge/-Ansible-0D1117?style=for-the-badge&logo=Ansible&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
