@@ -17,10 +17,6 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117)&nbsp;
 
-### Studying at this moment:
-![Azure];
-![GO];
-![Maven];
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
